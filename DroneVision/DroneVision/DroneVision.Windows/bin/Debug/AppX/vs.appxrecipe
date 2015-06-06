@@ -26,7 +26,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Kyle\Documents\drone-vision\DroneVision\DroneVision\DroneVision.Windows\bin\Debug\DroneVision.Windows.exe">
       <PackagePath>DroneVision.Windows.exe</PackagePath>
-      <Modified>2015-04-07T19:25:02.916</Modified>
+      <Modified>2015-06-06T20:59:08.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kyle\Documents\drone-vision\DroneVision\DroneVision\DroneVision.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -54,11 +54,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kyle\Documents\drone-vision\DroneVision\DroneVision\DroneVision.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-04-07T19:25:02.732</Modified>
+      <Modified>2015-06-06T20:59:07.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kyle\Documents\drone-vision\DroneVision\DroneVision\DroneVision.Windows\bin\Debug\DroneVision.Windows.xr.xml">
       <PackagePath>DroneVision.Windows.xr.xml</PackagePath>
-      <Modified>2015-04-07T19:25:02.719</Modified>
+      <Modified>2015-06-06T20:58:03.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kyle\Documents\drone-vision\DroneVision\DroneVision\DroneVision.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

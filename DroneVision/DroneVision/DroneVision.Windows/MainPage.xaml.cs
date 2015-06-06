@@ -1,4 +1,5 @@
-﻿using Windows.UI.Xaml.Controls;
+﻿using System;
+using Windows.UI.Xaml.Controls;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -12,6 +13,8 @@ namespace DroneVision
         public MainPage()
         {
             this.InitializeComponent();
+            Uri twitchStream = new Uri("http://www.twitch.tv/wyld/embed");
+            TwitchStream.Navigate(twitchStream);
         }
     }
 }
