@@ -8,8 +8,6 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Border BorderBrush="{x:Null}" Height="50">
-            <TextBlock FontSize="50" TextAlignment="Center" TextWrapping="Wrap" Text="Hello World!" VerticalAlignment="Center"/>
-        </Border>
+        <WebView Name="TwitchStream" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
     </Grid>
 </Page>
