@@ -16,7 +16,7 @@ namespace DroneVision
             this.InitializeComponent();
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
-            Uri twitchStream = new Uri("http://www.twitch.tv/wyld/embed");
+            Uri twitchStream = new Uri("http://www.twitch.tv/g5drone/embed");
             TwitchStream.Navigate(twitchStream);
         }
 
