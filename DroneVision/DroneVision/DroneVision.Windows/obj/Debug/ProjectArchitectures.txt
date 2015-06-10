@@ -1,1 +1,0 @@
-C:\Users\Kyle\Documents\drone-vision\DroneVision\DroneVision\DroneVision.Windows\DroneVision.Windows.csproj;neutral
